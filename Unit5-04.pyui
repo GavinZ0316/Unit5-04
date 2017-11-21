@@ -1,0 +1,143 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {650, 594}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{63, 199}, {113, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "average_touch_up_inside",
+          "frame" : "{{285, 281}, {80, 32}}",
+          "title" : "average",
+          "class" : "Button",
+          "uuid" : "C6A1EF25-63B9-47FF-803A-27A415671049",
+          "font_size" : 15,
+          "name" : "average"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{63, 112}, {113, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "my_enter_number_button_touch_up_inside",
+          "frame" : "{{285, 281}, {80, 32}}",
+          "title" : "Enter nuber",
+          "class" : "Button",
+          "uuid" : "3CB10BF5-14A4-430E-876B-36D65997D2A8",
+          "font_size" : 15,
+          "name" : "button2"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{419, 26}, {155, 408}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "enter_number_textview",
+          "editable" : true,
+          "frame" : "{{225, 197}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "1E101051-8A46-47E7-BAE8-3197840E4A3B",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{63, 294}, {99, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "label2",
+          "frame" : "{{250, 281}, {150, 32}}",
+          "uuid" : "DA381AC6-3B92-40E3-BAEF-816DBE91A5E7",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Average is:",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{161, 294}, {230, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "average_label",
+          "frame" : "{{250, 281}, {150, 32}}",
+          "uuid" : "2A90263F-FC06-415A-9341-03A955B14C38",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{63, 50}, {227, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{225, 281}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "53CF5B86-49FB-4827-83D8-27459249CAF2",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "enter_number_textfield",
+          "font_size" : 17
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{273, 112}, {118, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "my_number_touch_up_inside",
+          "frame" : "{{285, 281}, {80, 32}}",
+          "title" : "Show number",
+          "uuid" : "1D80B368-A261-4C06-B877-A2722A23E73D",
+          "class" : "Button",
+          "name" : "show number",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
